@@ -1,0 +1,129 @@
+elementId,name,category,color,priceUSD
+3005-red,Brick 1 x 1,Brick,Red,0.07
+3005-blue,Brick 1 x 1,Brick,Blue,0.07
+3005-yellow,Brick 1 x 1,Brick,Yellow,0.07
+3005-white,Brick 1 x 1,Brick,White,0.07
+3005-black,Brick 1 x 1,Brick,Black,0.07
+3005-gray,Brick 1 x 1,Brick,Light Gray,0.07
+3005-tan,Brick 1 x 1,Brick,Tan,0.07
+3005-green,Brick 1 x 1,Brick,Green,0.07
+3004-red,Brick 1 x 2,Brick,Red,0.08
+3004-blue,Brick 1 x 2,Brick,Blue,0.08
+3004-yellow,Brick 1 x 2,Brick,Yellow,0.08
+3004-white,Brick 1 x 2,Brick,White,0.08
+3004-black,Brick 1 x 2,Brick,Black,0.08
+3004-gray,Brick 1 x 2,Brick,Light Gray,0.08
+3004-tan,Brick 1 x 2,Brick,Tan,0.08
+3004-green,Brick 1 x 2,Brick,Green,0.08
+3004-orange,Brick 1 x 2,Brick,Orange,0.08
+3010-red,Brick 1 x 4,Brick,Red,0.12
+3010-blue,Brick 1 x 4,Brick,Blue,0.12
+3010-white,Brick 1 x 4,Brick,White,0.12
+3010-black,Brick 1 x 4,Brick,Black,0.12
+3010-gray,Brick 1 x 4,Brick,Light Gray,0.12
+3010-tan,Brick 1 x 4,Brick,Tan,0.12
+3009-gray,Brick 1 x 6,Brick,Light Gray,0.16
+3009-tan,Brick 1 x 6,Brick,Tan,0.16
+3009-white,Brick 1 x 6,Brick,White,0.16
+3008-gray,Brick 1 x 8,Brick,Light Gray,0.20
+3008-tan,Brick 1 x 8,Brick,Tan,0.20
+3003-red,Brick 2 x 2,Brick,Red,0.11
+3003-blue,Brick 2 x 2,Brick,Blue,0.11
+3003-yellow,Brick 2 x 2,Brick,Yellow,0.11
+3003-white,Brick 2 x 2,Brick,White,0.11
+3003-black,Brick 2 x 2,Brick,Black,0.11
+3003-gray,Brick 2 x 2,Brick,Light Gray,0.11
+3003-tan,Brick 2 x 2,Brick,Tan,0.11
+3003-green,Brick 2 x 2,Brick,Green,0.11
+3002-gray,Brick 2 x 3,Brick,Light Gray,0.14
+3002-tan,Brick 2 x 3,Brick,Tan,0.14
+3001-red,Brick 2 x 4,Brick,Red,0.17
+3001-blue,Brick 2 x 4,Brick,Blue,0.17
+3001-yellow,Brick 2 x 4,Brick,Yellow,0.17
+3001-white,Brick 2 x 4,Brick,White,0.17
+3001-black,Brick 2 x 4,Brick,Black,0.17
+3001-gray,Brick 2 x 4,Brick,Light Gray,0.17
+3001-tan,Brick 2 x 4,Brick,Tan,0.17
+3001-green,Brick 2 x 4,Brick,Green,0.17
+3024-red,Plate 1 x 1,Plate,Red,0.05
+3024-blue,Plate 1 x 1,Plate,Blue,0.05
+3024-white,Plate 1 x 1,Plate,White,0.05
+3024-black,Plate 1 x 1,Plate,Black,0.05
+3024-gray,Plate 1 x 1,Plate,Light Gray,0.05
+3024-tan,Plate 1 x 1,Plate,Tan,0.05
+3023-red,Plate 1 x 2,Plate,Red,0.06
+3023-blue,Plate 1 x 2,Plate,Blue,0.06
+3023-white,Plate 1 x 2,Plate,White,0.06
+3023-black,Plate 1 x 2,Plate,Black,0.06
+3023-gray,Plate 1 x 2,Plate,Light Gray,0.06
+3023-tan,Plate 1 x 2,Plate,Tan,0.06
+3022-red,Plate 2 x 2,Plate,Red,0.08
+3022-blue,Plate 2 x 2,Plate,Blue,0.08
+3022-white,Plate 2 x 2,Plate,White,0.08
+3022-black,Plate 2 x 2,Plate,Black,0.08
+3022-gray,Plate 2 x 2,Plate,Light Gray,0.08
+3021-gray,Plate 2 x 3,Plate,Light Gray,0.10
+3021-tan,Plate 2 x 3,Plate,Tan,0.10
+3020-red,Plate 2 x 4,Plate,Red,0.12
+3020-blue,Plate 2 x 4,Plate,Blue,0.12
+3020-white,Plate 2 x 4,Plate,White,0.12
+3020-black,Plate 2 x 4,Plate,Black,0.12
+3020-gray,Plate 2 x 4,Plate,Light Gray,0.12
+3028-gray,Plate 6 x 8,Plate,Light Gray,0.55
+3028-green,Plate 6 x 8,Plate,Green,0.55
+6141-yellow,Plate Round 1 x 1,Plate,Yellow,0.05
+6141-clear,Plate Round 1 x 1,Plate,Transparent,0.06
+6141-red,Plate Round 1 x 1,Plate,Red,0.05
+3070-gray,Tile 1 x 1,Tile,Light Gray,0.05
+3070-white,Tile 1 x 1,Tile,White,0.05
+3070-black,Tile 1 x 1,Tile,Black,0.05
+3069-gray,Tile 1 x 2,Tile,Light Gray,0.06
+3069-white,Tile 1 x 2,Tile,White,0.06
+3069-tan,Tile 1 x 2,Tile,Tan,0.06
+3040-red,Slope 45 1 x 2,Slope,Red,0.09
+3040-blue,Slope 45 1 x 2,Slope,Blue,0.09
+3040-white,Slope 45 1 x 2,Slope,White,0.09
+3040-black,Slope 45 1 x 2,Slope,Black,0.09
+3040-gray,Slope 45 1 x 2,Slope,Light Gray,0.09
+3039-red,Slope 45 2 x 2,Slope,Red,0.14
+3039-blue,Slope 45 2 x 2,Slope,Blue,0.14
+3039-white,Slope 45 2 x 2,Slope,White,0.14
+3039-black,Slope 45 2 x 2,Slope,Black,0.14
+3039-gray,Slope 45 2 x 2,Slope,Light Gray,0.14
+3037-gray,Slope 45 2 x 4,Slope,Light Gray,0.22
+3037-red,Slope 45 2 x 4,Slope,Red,0.22
+4589-red,Cone 1 x 1,Specialty,Red,0.06
+4589-yellow,Cone 1 x 1,Specialty,Yellow,0.06
+4589-white,Cone 1 x 1,Specialty,White,0.06
+4589-black,Cone 1 x 1,Specialty,Black,0.06
+3941-gray,Brick Round 2 x 2,Specialty,Light Gray,0.18
+3941-white,Brick Round 2 x 2,Specialty,White,0.18
+3308-gray,Arch 1 x 8 x 6,Specialty,Light Gray,0.85
+3308-tan,Arch 1 x 8 x 6,Specialty,Tan,0.85
+60594-clear,Window 1 x 2 x 2 with Glass,Specialty,Transparent,0.35
+60592-tan,Door Frame 1 x 4 x 6,Specialty,Tan,0.60
+60596-tan,Door 1 x 4 x 6,Specialty,Tan,0.55
+3065-clear,Brick 1 x 2 without Bottom Tube Transparent,Specialty,Transparent,0.15
+6146-clear,Tile Round 1 x 1 Transparent,Specialty,Transparent,0.06
+3713-gray,Technic Bush,Technic,Light Gray,0.06
+32000-gray,Technic Brick 1 x 2 with Hole,Technic,Light Gray,0.12
+3700-gray,Technic Brick 1 x 2 with Pin Hole,Technic,Light Gray,0.12
+2780-black,Technic Pin,Technic,Black,0.05
+6558-blue,Technic Pin 3L,Technic,Blue,0.07
+32062-red,Technic Axle 2L,Technic,Red,0.06
+3701-gray,Technic Brick 1 x 4 with Holes,Technic,Light Gray,0.18
+98138-black,Tire Small,Wheel,Black,0.35
+50950-black,Wheel Rim Small,Wheel,Black,0.30
+4624-black,Wheel Plate 2 x 2,Wheel,Black,0.25
+93348-gray,Propeller 3 Blade,Specialty,Light Gray,0.30
+2569-gray,Antenna Whip,Specialty,Light Gray,0.15
+3957-black,Antenna 1 x 1,Specialty,Black,0.08
+10049-red,Flag 2 x 2,Specialty,Red,0.25
+30374-black,Bar 4L Lightsaber Blade,Specialty,Black,0.10
+3817-tan,Minifigure Legs,Figure,Tan,0.40
+3815-white,Minifigure Torso Assembly,Figure,White,0.90
+3626-yellow,Minifigure Head,Figure,Yellow,0.35
+914108-green,Baseplate 32 x 32,Base,Green,14.99
+914108-gray,Baseplate 32 x 32,Base,Light Gray,14.99
+914108-blue,Baseplate 32 x 32,Base,Blue,12.99
+10700-tan,Baseplate 32 x 32,Base,Tan,14.99
